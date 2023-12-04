@@ -7,7 +7,7 @@ Terdapat fitur yaitu `ChatGPT` dan `AI`.<br>Untuk commandnya menggunakan `/ai`.
 
 ## Get & Change OpenAI ApiKey
 - Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file [key.json](https://github.com/Sansekai/Wa-OpenAI/blob/844f41c362250bed10857443c013cbb454807e87/key.json#L2)
+- Ganti ApiKey OpenAI pada file [key.json](https://github.com/RidwanzAnphelibelll/Wa-OpenAI/blob/844f41c362250bed10857443c013cbb454807e87/key.json#L2)
 
 ## Install
 **Install on RDP/Windows ✅**
@@ -40,7 +40,7 @@ $ node index.js
 <a href="https://saweria.co/RidwanzSaputra" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Ridwanz" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
+[MIT License](https://github.com/RidwanzAnphelibelll/Wa-OpenAI/blob/main/LICENSE)
 
 Recoded By (c) 2023 ©Ridwanz
 
