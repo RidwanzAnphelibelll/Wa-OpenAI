@@ -42,5 +42,5 @@ $ node index.js
 ## License
 [MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
 
-Decoded By (c) 2023 ©Ridwanz
+Recoded By (c) 2023 ©Ridwanz
 
