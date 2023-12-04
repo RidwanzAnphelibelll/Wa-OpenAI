@@ -7,7 +7,7 @@ Terdapat fitur yaitu `ChatGPT` dan `AI`.<br>Untuk commandnya menggunakan `/ai`.
 
 ## Get & Change OpenAI ApiKey
 - Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file [key.json](https://github.com/RidwanzAnphelibelll/Wa-OpenAI/blob/844f41c362250bed10857443c013cbb454807e87/key.json#L2)
+- Ganti ApiKey OpenAI pada file [key.json](https://github.com/RidwanzAnphelibelll/Wa-OpenAI/blob/master/key.json)
 
 ## Install
 **Install on RDP/Windows ✅**
