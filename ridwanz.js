@@ -186,7 +186,7 @@ case "ceknomor":
  case "sc":
  case "script":
  case "scbot":
- m.reply("Bot Ini Menggunakan Script Dari https://github.com/Ridwanz-Saputra/Wa-OpenAI");
+ m.reply("Bot Ini Menggunakan Script Dari https://github.com/RidwanzAnphelibelll/Wa-OpenAI");
  break; 
 
 case "owner":
